@@ -1,0 +1,1 @@
+aws sns publish --topic-arn "arn:aws:sns:us-east-1:590184140787:My-server-Logs" --message file://myoutput.sh
